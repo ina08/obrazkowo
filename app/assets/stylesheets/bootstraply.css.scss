@@ -1,7 +1,7 @@
 $jumbotron-bg: gray;
 $navbar-default-bg: black;
 $navbar-height: 25px;
-$body-bg: #556b2f;
+$body-bg: $gray-light;
 $brand-primary: darken(#daa520, 6.5%);
 
 @import "bootstrap-sprockets";
